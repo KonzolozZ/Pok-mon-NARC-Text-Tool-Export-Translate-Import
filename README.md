@@ -1,0 +1,1 @@
+# Pok-mon-NARC-Text-Tool-Export-Translate-Import
